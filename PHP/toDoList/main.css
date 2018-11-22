@@ -1,0 +1,49 @@
+body
+{
+	background-color: #e2e2e2;
+	font-size: 23px;
+	text-align: center;
+}
+ul
+{
+	display: inline;
+}
+li
+{
+	color: green;
+}
+span
+{
+	font-size: 20px;
+	color: blue;
+	padding-left: 3PX;
+}
+button
+{
+	border-radius: 5px;
+    background-color: #ffffff;
+}
+a
+{
+	text-decoration: none;
+}
+form
+{
+	margin-top: 5px;
+	padding-top: 10px;
+}
+input[type='text']
+{
+	border-radius: 5px;
+    background-color: #fff;
+    color: #481daf;
+    padding: 6px;
+}
+input[type='submit']
+{
+	border-radius: 5px;
+    background-color: #fff;
+    color: #481daf;
+    padding: 6px;
+    border: 1px solid;
+}

@@ -1,0 +1,41 @@
+body
+{
+	background-color: #f3f3f3;
+	font-family: arial;
+	color: black;
+
+}
+input
+{
+	padding: 0px 20px;
+	width: 200px;
+	height: 40px;
+	font-size: 20px;
+	border-radius: 5px;
+}
+button
+{
+	padding: 0px 20px;
+	width: 100px;
+	height: 42px;
+	font-size: 20px;
+	border-radius: 5px;
+}
+.article-container
+{
+	width: 1000px;
+	background-color: #fff;
+	padding: 30px;
+	margin-left: 65px; 
+}
+.article-box
+{
+	padding-bottom: 30px;
+}
+h3
+{
+	text-align: center;
+}
+
+
+
